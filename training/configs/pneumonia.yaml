@@ -1,0 +1,10 @@
+dataset_root: "/data/pneumonia"
+num_classes: 2
+img_size: 384
+batch_size: 32
+epochs: 12
+lr: 3e-4
+weights: "resnet18"
+augment: true
+label_smoothing: 0.05
+export_path: "../backend/models/pneumonia_resnet18.pt"

@@ -1,0 +1,28 @@
+{
+  "date": "{{AUTO}}",
+  "pneumonia": {
+    "acc": "\u2014",
+    "prec": "\u2014",
+    "rec": "\u2014",
+    "f1": "\u2014",
+    "auc": "\u2014"
+  },
+  "tb": {
+    "acc": "\u2014",
+    "prec": "\u2014",
+    "rec": "\u2014",
+    "f1": "\u2014",
+    "auc": "\u2014"
+  },
+  "lc": {
+    "acc": "\u2014",
+    "f1": "\u2014",
+    "notes": "\u2014"
+  },
+  "images": {
+    "pneumonia": "",
+    "tb": "",
+    "lc": ""
+  },
+  "discussion": "Add key observations, limitations, and future work here."
+}
