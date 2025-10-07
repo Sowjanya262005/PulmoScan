@@ -1,3 +1,4 @@
+from backend import download_model
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from backend.routers import health, predict
